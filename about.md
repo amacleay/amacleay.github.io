@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Andrew Kenneth MacLeay, Esq.  I am a software developer
+residing near Boston, Massachusetts.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I work at [athenaHealth](https://www.athenahealth.com) building web applications to help patients engage in their health care.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My real life interests primarily revolve around the natural world - I am fascinated with the plants and animals of the New England area.
+
+* [Mass Audubon](http://www.massaudubon.org/)
+* [AMC](http://www.outdoors.org/)
+* [Somerville Road Runners](http://srr.org/)
