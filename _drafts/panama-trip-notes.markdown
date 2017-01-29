@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: travel
+categories: travel books
 ---
 
 Let's just catalogue the trip as it goes.
@@ -17,6 +17,16 @@ Last night, I got to Boston's Logan airport around 4pm.  Soon after, I read on t
 If you are traveling, you should be busy experiencing _that_, not getting lost in the Twittersphere back home thousands of miles away, but here I am: four hours too early to check in for my flight from Panama City to Bocas del Toro, rabidly consuming all the media I can find from the [local ACLU](ACLU-MA), thousands of miles away.  What else could I be doing?  Looking up the history of the [places](hist-noriega) I'm [visiting](albrook) is a depressing look into my nation's [imperialist past](hist-canal), while I'm obsessing over the fight for its future.
 
 Oh well.  Maybe I'll order a _cafe con leche_ in Spanish this time while I refresh the page.
+
+---
+
+## Late morning
+
+I've read the majority of _H Is for Hawk_ on this leg of the journey - one of the perks of drawn-out but uninvolved travel.  Macdonald has put together a quite involved book, weaving a number of distinct threads - the journey of raising a goshawk and hunting with her, the death of her father, and her commentary on the two famous falconry-related British books of the last century, _The Peregrine_ and _The Goshawk_; the analysis of the latter - and its author, T. H. White, who more famously wrote _The Once and Future King_ - of which forms the basis for much of her content.  The material, to me, hangs together somewhat loosely, more like a collection of essays assembled like a mixtape than a coherent narrative, but that's not a serious problem.  There is just one thing that distracts me from losing myself in the book.
+
+To my mind, the framework of Sigmund Freud is to psychology what Marx's is to political theory - wonderfully capable of providing a stirring narrative explanation, often illuminating and always intriguing, but in the end, too broad of application and too narrow of opinion to be seriously considered as dependable frames of reference.  By that, I mean it has a fairly small and reductive set of rules, but can be applied in a very wide range of critiques which perhaps stretch those rules beyond their capacity, as though it were a flat-bottomed boat designed for a certain number of passengers but carrying many more than could actually fit.  Macdonald's reading of White's life is replete with Freudian analyses, and what troubles me most is when it applies to his homosexuality.  Somehow, at every turn, White's brutal childhood metamorphoses into all of his adult troubles: alcoholism, sadism, pedophilia, angst over his impossible homosexuality.  I _don't_ think Macdonald is saying that somehow being unloved as a child turned him gay, but I _do_ think she is saying that his childhood is a critical part of his later alcoholism, among other things.  The problem I find with this kind of attempt to tie youthful trauma to adult disorder is that it is ultimately unscientific - how could one disprove the hypothesis? - and so ultimately it gives us tools for labeling various states of being as pathologies to be explained by previous events.  In the particular case of alcoholism, I believe we know emphatically that it is not simply a phenomenon of the psyche, because it has a strong genetic component (citation needed, I realize).  Without a great deal more rigor, what's to prevent someone, using the same tools as Macdonald uses to construct her commentary, from calling his homosexuality a stress-induced pathology as well?
+
+Not that this is stopping me in any way, mind you.  My flight to Bocas del Toro boards in an hour and a half, and I expect I'll have finished the book by the time I arrive.  There's much more I enjoy in _H Is for Hawk_ than dislike.
 
 ---
 
