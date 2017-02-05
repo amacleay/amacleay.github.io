@@ -158,8 +158,74 @@ set formatoptions+=a " format paragraphs as I type
 set textwidth=50     " break at 50 chars
 ```
 
-[ACLU-MA]()
-[albrook]()
-[hist-noriega]()
-[hist-canal]()
+Thanks to [this article](modeline-source), now I've got a little `modeline` at the end as a fake link to retain these on the file:
 
+```
+[modeline]: # ( vim: set spell formatoptions+=a textwidth=50 : )
+```
+
+---
+
+## Break in chronology
+
+It's around 1pm on Sunday, February 5th.  I've
+been trying or near an hour to put down some more
+notes about the last week, but Mami, the
+unofficial resident of Dan and Lily's place on
+Bastimentos, has been much too affectionate for me
+to write for some time now.  After being good and
+itchy for long enough, I'm going to make a quick
+run at an outline of the week, and then probably
+fill in more later.  That may or may not happen.
+
+---
+
+## January 30, evening
+
+I landed in Bocas del Toro airport a little after
+1pm on Sunday, waited a little while for Steve and
+Allison, then started walking into Bocas Town on
+Isla Colon.  I met them on the way after a few
+minutes of walking.  We continued in and met my
+parents and Al and Marilyn at El Pirate restaurant
+in town, where we had a couple of beers and I got
+a beautiful whole red snapper with rice and a
+salad.  This was the first really good meal I had,
+which was followed by many more.  Everything I ate
+here was pretty much fantastic.
+
+We took the boat back to Bastimentos while it was
+still light out and I saw Dan and Lily's place for
+the first time.  It's right out on a point on the
+island on the weather side, so it always has surf
+rolling in and a cooling breeze.  It was always
+between 25 and 30 C here (about 80-90), but here,
+it was always comfortable.
+
+We sat on my parents' porch for sunset, which was
+beautiful, and then moved to the main porch.  We
+had Dan, Lily, my parents, Steve and Allison, Bill
+and Jessica (two Americans living on the island
+for part of the year), Justin and Kelly (a younger
+married couple staying at Dan's by chance), and a
+guy named Calipso Joe.  We drank, played music,
+and hung out there into the night.  My mom seemed
+perfectly at home, which completely took me by
+surprise, but my dad less so.  Just before he
+left, Calipso Joe took offense to something my dad
+said, and suffice it to say they didn't see
+eye-to-eye after that.
+
+
+
+[ACLU-MA]: ()
+
+[albrook]: ()
+
+[hist-noriega]: ()
+
+[hist-canal]: ()
+
+[modeline-source]: (https://davidjb.com/blog/2016/10/adding-a-vim-modeline-in-a-markdown-document/)
+
+[modeline]: # ( vim: set spell formatoptions+=a textwidth=50 : )
