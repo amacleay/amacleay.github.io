@@ -1,6 +1,6 @@
 ---
-layout: post
-title: ""
+layout: post 
+title: "Panama vacation notes" 
 categories: travel books
 ---
 
